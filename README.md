@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sarvadnya2002
 - 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Kotlin and XML for android development
-- 💞️ I’m looking to collaborate on Android projects
+- 🌱 I’m currently learning Web Application Development in Java.
+- 💞️ I’m looking to collaborate on Android and Web projects
 - 📫 How to reach me ...
 
 <!---
